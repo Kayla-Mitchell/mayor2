@@ -31,7 +31,7 @@ body {
   /*this is the index and thankyou page settings*/
   .jumbotron2 {
   
-      background-image: url(Images/vote-2016.jpg);
+      background-image: url(Images/stlouiscityflagkm.jpg);
       background-repeat: no-repeat;
       background-position: center;
       background-color: #fff;
@@ -142,7 +142,6 @@ body {
       color: #f00; !important;
       text-shadow: 2px 2px #039;
       background-color: #f00;
-      background-image: url(Images/yourvote2016.jpg); !important;
       background-repeat: no-repeat;
       background-position: top;
       padding: 25px;
